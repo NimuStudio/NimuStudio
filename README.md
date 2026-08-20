@@ -10,12 +10,12 @@
 
 独立开发者 · 全栈 Web · 专注"好用又好看"的软件
 
-## 🧰 我做的东西
+## 🧰 开源项目
 
 | 项目 | 说明 |
 |---|---|
-| [**Nimu Glass UI**](https://github.com/NimuStudio/Nimu-glass-ui) | 开箱即用的三主题玻璃拟态 UI 体系（Glass/Light/Dark）· ⭐ 欢迎 Star |
-| 更多作品 | 陆续发布中… |
+| [**Nimu Glass UI**](https://github.com/NimuStudio/Nimu-glass-ui) | 三主题玻璃拟态 UI 体系（Glass/Light/Dark）· 纯 CSS/JS 零依赖 · ⭐ |
+| [**NimuChat**](https://github.com/NimuStudio/NimuChat) | 轻量 WebSocket 即时通讯组件 · 实时收发 + 断线重连 · 前后端可跑 · ⭐ |
 
 ## 🛠 技术栈
 
