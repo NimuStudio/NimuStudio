@@ -27,7 +27,7 @@ WebGL2（玻璃特效）· 响应式 Web / H5 双端
 ## 📬 联系
 
 - GitHub：[@NimuStudio](https://github.com/NimuStudio)
-- 爱发电：[☕ 请我喝杯咖啡](https://www.ifdian.net/a/ystibdjmnm)
+- 爱发电：[☕ 请我喝杯咖啡](https://ifdian.net/a/NimuStudio)
 
 ---
 
