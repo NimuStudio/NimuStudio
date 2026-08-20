@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NimuStudio/NimuStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ Nimu Studio · 柠木互联网工作室
 
-Here are some ideas to get you started:
+**美感即匠心 · Beauty is the craft**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+独立开发者 · 全栈 Web · 专注"好用又好看"的软件
+
+## 🧰 我做的东西
+
+| 项目 | 说明 |
+|---|---|
+| [**Nimu Glass UI**](https://github.com/NimuStudio/Nimu-glass-ui) | 开箱即用的三主题玻璃拟态 UI 体系（Glass/Light/Dark）· ⭐ 欢迎 Star |
+| 更多作品 | 陆续发布中… |
+
+## 🛠 技术栈
+
+```
+HTML / CSS / JS · Node.js / Express · WebSocket · SQLite
+WebGL2（玻璃特效）· 响应式 Web / H5 双端
+```
+
+## 📬 联系
+
+- GitHub：[@NimuStudio](https://github.com/NimuStudio)
+- 爱发电：[☕ 请我喝杯咖啡](https://www.ifdian.net/a/ystibdjmnm)
+
+---
+
+<div align="center">
+
+**认真做好每件小事，让软件好用又好看**
+
+</div>
