@@ -14,14 +14,16 @@
 
 | 项目 | 说明 |
 |---|---|
+| [**NimuQDock-dsh**](https://github.com/NimuStudio/NimuQDock-dsh) | QQ ↔ DeepSeek Harness 对接坞 · 带人格引擎的仿真群友：心情、精力、记忆，像真人一样潜水与参与 · ⭐ |
 | [**Nimu Glass UI**](https://github.com/NimuStudio/Nimu-glass-ui) | 三主题玻璃拟态 UI 体系（Glass/Light/Dark）· 纯 CSS/JS 零依赖 · ⭐ |
-| [**NimuChat**](https://github.com/NimuStudio/NimuChat) | 轻量 WebSocket 即时通讯组件 · 实时收发 + 断线重连 · 前后端可跑 · ⭐ |
+| [**NimuChat**](https://github.com/NimuStudio/NimuChat) | 轻量 WebSocket 即时通讯组件 · 实时收发 + 断线重连 · 前后端可跑 |
 
 ## 🛠 技术栈
 
 ```
 HTML / CSS / JS · Node.js / Express · WebSocket · SQLite
 WebGL2（玻璃特效）· 响应式 Web / H5 双端
+DeepSeek Harness · MCP · 人格引擎（YAML 角色卡）· OneBot v11 / NapCat
 ```
 
 ## 📬 联系
