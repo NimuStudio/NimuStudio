@@ -1,6 +1,8 @@
 <div align="center">
 
-# ✦ Nimu Studio · 柠木互联网工作室
+<img src="assets/yuri-avatar.png" width="120" height="120" alt="柠月琉璃 Yuri · 柠木工作室吉祥物" />
+
+# ✦ 柠木工作室 · Nimu Studio
 
 **美感即匠心 · Beauty is the craft**
 
