@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/yuri-banner.png" alt="柠木工作室 · Nimu Studio" />
+<img src="assets/yuri-banner.png" alt="柠木工作室 · Nimu Studio" width="820" />
 
 <br />
 
-## ✦ 柠木工作室 · Nimu Studio
+# ✦ 柠木工作室 · Nimu Studio
 
-**美感即匠心 · Beauty is the craft**
+### 美感即匠心 · Beauty is the craft
 
 </div>
 
