@@ -10,6 +10,8 @@
 
 </div>
 
+> 由 [Nimu Studio](https://nimustudio.cn) 维护 · 官网 [nimustudio.cn](https://nimustudio.cn)
+
 ---
 
 设计与开发 · 全栈 Web · 专注"好用又好看"的软件
