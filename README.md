@@ -45,5 +45,5 @@ DeepSeek Harness · MCP · 人格引擎（YAML 角色卡）· OneBot v11 / NapCa
 - GitHub：[@NimuStudio](https://github.com/NimuStudio)
 - 官网：[nimustudio.cn](https://nimustudio.cn) · [English](https://nimustudio.cn/en/)
 - QQ 交流群：**`1097466590`**
-- 作者 QQ：**`2998827169`**
+- QQ：**`2998827169`**
 - 爱发电：[☕ 请我喝杯咖啡](https://ifdian.net/a/NimuStudio)
