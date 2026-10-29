@@ -14,15 +14,23 @@
 
 ---
 
-设计与开发 · 全栈 Web · 专注"好用又好看"的软件
+开源 · 独立开发
+
+柠木工作室主要从事 Web 前端与后端开发，并在 UI 设计、即时通讯与 AI 应用方向持续投入。
 
 ## 🧰 开源项目
 
 | 项目 | 说明 |
 |---|---|
-| [**NimuQDock-dsh**](https://github.com/NimuStudio/NimuQDock-dsh) | QQ ↔ DeepSeek Harness 对接坞 · 带人格引擎的仿真群友：心情、精力、记忆，像真人一样潜水与参与 · ⭐ |
-| [**Nimu Glass UI**](https://github.com/NimuStudio/Nimu-glass-ui) | 三主题玻璃拟态 UI 体系（Glass/Light/Dark）· 纯 CSS/JS 零依赖 · ⭐ |
-| [**NimuChat**](https://github.com/NimuStudio/NimuChat) | 轻量 WebSocket 即时通讯组件 · 实时收发 + 断线重连 · 前后端可跑 |
+| [**NimuQDock-dsh**](https://github.com/NimuStudio/NimuQDock-dsh) | QQ ↔ DeepSeek Harness 对接坞 · 带人格引擎的仿真群友：心情、精力、记忆，像真人一样潜水与参与 |
+| [**Nimu Glass UI**](https://github.com/NimuStudio/Nimu-glass-ui) | 三主题玻璃拟态 UI 体系（Glass/Light/Dark）· 纯 CSS/JS 零依赖 |
+| [**NimuChat**](https://github.com/NimuStudio/NimuChat) | 轻量 WebSocket 即时通讯组件 · 实时收发 + 断线重连 · 前后端完整可跑 |
+
+## 🎮 游戏作品
+
+| 项目 | 状态 | 说明 |
+|---|---|---|
+| **首部作品** | 开发中 | Galgame · 正式名称与发布日期将在确定后公布 |
 
 ## 🛠 技术栈
 
@@ -35,14 +43,6 @@ DeepSeek Harness · MCP · 人格引擎（YAML 角色卡）· OneBot v11 / NapCa
 ## 📬 联系
 
 - GitHub：[@NimuStudio](https://github.com/NimuStudio)
+- 官网：[nimustudio.cn](https://nimustudio.cn) · [English](https://nimustudio.cn/en/)
 - QQ 交流群：**`1097466590`**
-- 作者 QQ：**`2998827169`**
 - 爱发电：[☕ 请我喝杯咖啡](https://ifdian.net/a/NimuStudio)
-
----
-
-<div align="center">
-
-**认真做好每件小事，让软件好用又好看**
-
-</div>
